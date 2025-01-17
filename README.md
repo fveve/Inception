@@ -1,7 +1,7 @@
 # **Inception**
 
 ### **Description**  
-Inception is a mini_infrastructure regrouping diffenrent services like Nginx, Mariadb and Wordpress.
+Inception is a mini infrastructure regrouping diffenrent services like Nginx, Mariadb and Wordpress.
 
 ---
 
